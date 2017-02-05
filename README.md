@@ -15,3 +15,6 @@ Folder looks like this.
 Requierments
   1. Minimum required Vagrant version is 1.8.6
   2. The official recommended Virtualbox version is 5.0.26!
+
+Future Planing
+ 1. Liquidbase
