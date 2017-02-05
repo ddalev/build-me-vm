@@ -6,6 +6,7 @@ To start the project you should build your file structure first
   3. This branch is for "vagrant" folder. Checkout the repository inside of it.
   4. Execute comand vagrant up.
   5. Checkout code repository inside "repository" folder. This is a shared working directory that is gonna execute the source code inside your virtal machine.
+  6. Add inside your hosts file 192.168.56.101 buildme.dev www.buildme.dev
   
 Folder looks like this.
   1. ~/buildme/repository
